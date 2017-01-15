@@ -68,7 +68,7 @@ public class HangmanGame {
 													+ chosenWord
 															.toUpperCase()
 													+ "\"");
-									return; //I got idea from a TA, Isaac.
+									return; 
 
 								}
 
